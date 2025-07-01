@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:50%;width:280px;padding:6px" src="Roberto Kanashiro de Macedo_redonda.png" />
+<img style="float:right;border-radius:50%;width:280px;padding:6px" src="Roberto Kanashiro de Macedo_redonda.png" />    
 
 # ROBERTO KANASHIRO DE MACEDO
 
