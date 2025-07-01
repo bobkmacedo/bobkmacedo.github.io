@@ -1,12 +1,13 @@
-<!-- <img style="float:right;border-radius:50%;width:280px;padding:6px" src="Roberto Kanashiro de Macedo_redonda.png" /> -->
+| | |
+|---|---|
+|<img src="Roberto Kanashiro de Macedo_redonda.png" width="320" height="320">| <H1> ROBERTO KANASHIRO DE MACEDO </H1><br>E-mail pessoal: bobkmacedo@gmail.com<br>E-mail corporativo: roberto.macedo@itau-unibanco.com.br<br>Telefone: (13) 9-9644-6450|
 
-![Descrição da imagem](https://github.com/bobkmacedo/bobkmacedo.github.io/Roberto Kanashiro de Macedo_redonda.png)
 
-# ROBERTO KANASHIRO DE MACEDO
+<!-- # ROBERTO KANASHIRO DE MACEDO -->
 
-- E-mail pessoal: bobkmacedo@gmail.com
-- E-mail corporativo: roberto.macedo@itau-unibanco.com.br
-- Telefone: (13) 9-9644-6450
+<!-- - E-mail pessoal: bobkmacedo@gmail.com -->
+<!-- - E-mail corporativo: roberto.macedo@itau-unibanco.com.br -->
+<!-- - Telefone: (13) 9-9644-6450 -->
 
 ## RESUMO PROFISSIONAL:
 
